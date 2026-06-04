@@ -1,0 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Changes the loud header gradient to a calm, solid slate/graphite tone
+.page-header {
+  background-image: none !important;
+  background-color: #2e3440 !important; 
+}
