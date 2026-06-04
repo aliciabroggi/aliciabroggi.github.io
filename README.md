@@ -25,7 +25,7 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 
 ### Selected Essays & Features
 
-*   **Editorial Features** — *Three Architects of a Frontier Era: Profiles in Engineering Leadership*
+*   **Editorial Features** — [Three Architects of a Frontier Era: Profiles in Engineering Leadership](https://www.linkedin.com/pulse/three-frontier-architects-harvardintech-ubdie/)
 *   **Analytical Essays** — *Machine Authorship vs. Human Reflection: Structural Ethics in AI Systems*
 
 ---
