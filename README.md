@@ -18,13 +18,13 @@
 
 **Good writing is good thinking.** I am a writer, researcher, and editorial consultant who helps organizations make sense of complex, fast-moving cultural and technological landscapes.
 
-My work spans peer-reviewed books on culture and belief, deep-dive feature profiles of engineering leaders, and analytical essays on socio-technical systems. Because I have spent years researching and teaching at the university level in the UK and Germany, as well as mentoring writers through independent research projects in the US, I know how to interrogate structural frameworks deeply—and, more importantly, how to translate those insights into clear, accessible language for the real world.
+My work spans a peer-reviewed book on culture and belief, deep-dive feature profiles of engineering leaders, and analytical essays on socio-technical systems. Because I have spent years researching and teaching at the university level in the UK and Germany, as well as mentoring writers through independent research projects in the US, I know how to interrogate structural frameworks deeply—and, more importantly, how to translate those insights into clear, accessible language for the real world.
 
 <div style="clear: both;"></div>
 
 ---
 
-### Books & Major Publications
+### Book & Major Publications
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="monograph.jpg" alt="J. M. Coetzee and Christianity" width="220" style="border: 1px solid #e1e4e8;" />
