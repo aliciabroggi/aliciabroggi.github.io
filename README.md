@@ -17,7 +17,7 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 > 
 > A research monograph examining the structural intersections of literature, foundational cultural ethics, and belief systems within modern societal frameworks.
 > 
-> [Available from Bloomsbury](https://www.bloomsbury.com)
+> [Available from Bloomsbury](https://www.bloomsbury.com/us/j-m-coetzee-and-christianity-9781350500235/)
 
 <div style="clear: both;"></div>
 
