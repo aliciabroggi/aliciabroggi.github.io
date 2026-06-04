@@ -43,6 +43,6 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 
 ### Contact & Collaboration
 
-If you are building at an advanced research lab, think tank, policy organization, or university center and need clear, rigorous analytical depth:
+For research collaborations, editorial consulting, or inquiries regarding my writing, please feel free to reach out:
 
 [LinkedIn](https://www.linkedin.com/in/aliciabroggi/) &nbsp;&nbsp;•&nbsp;&nbsp; [Email](mailto:aliciabroggi@gmail.com)
