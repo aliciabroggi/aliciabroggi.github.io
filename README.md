@@ -34,6 +34,7 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 
 *   **D.Phil. in English** — University of Oxford (*Clarendon Scholar*)
 *   **M.Sc. in English** — University of Edinburgh
+*   **Master's Degree** — Wheaton College
 *   **Undergraduate Degree** — Wheaton College
 
 ---
