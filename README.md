@@ -10,7 +10,9 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 
 ### Books & Major Publications
 
-<img src="monograph.jpg" alt="J. M. Coetzee and Christianity" width="220" style="float: left; margin-right: 25px; margin-bottom: 15px; border: 1px solid #e1e4e8;" />
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="monograph.jpg" alt="J. M. Coetzee and Christianity" width="220" style="border: 1px solid #e1e4e8;" />
+</div>
 
 > #### **J. M. Coetzee and Christianity**
 > *Bloomsbury Academic, March 2026*
@@ -18,8 +20,6 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 > A research monograph examining the structural intersections of literature, foundational cultural ethics, and belief systems within modern societal frameworks.
 > 
 > [Available from Bloomsbury](https://www.bloomsbury.com/us/j-m-coetzee-and-christianity-9781350500235/)
-
-<div style="clear: both;"></div>
 
 ---
 
