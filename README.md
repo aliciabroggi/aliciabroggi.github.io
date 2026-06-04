@@ -36,7 +36,7 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 
 *   **Journal Article** — [“What Does it Mean to Speak of [–––]?” Rudolf Bultmann, Biography, and J. M. Coetzee’s *Life & Times of Michael K* (1983)](https://academic.oup.com/res/article-abstract/69/289/336/4745981) — *The Review of English Studies*
 *   **Journal Article** — [‘A Language I Have Not Unlearned’: Cultivating an Historical Awareness of J.M. Coetzee’s Engagement with Christianity](https://academic.oup.com/litthe/article-abstract/32/4/452/5056966) — *Literature and Theology*
-*   **Audio Production** — [Literate Podcast](https://literatepodcast.com/) — *A podcast about the 'best' books, co-created and co-produced with Erica Lombard*
+*   **Audio Production** — [Literate Podcast](https://literatepodcast.com/) — A podcast about the 'best' books, co-created and co-produced with Erica Lombard
 
 ---
 
