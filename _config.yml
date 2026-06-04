@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Alicia Broggi
-description: Writer, Researcher & Editorial Consultanttheme: jekyll-theme-cayman
+description: " "
+
+# Custom Styling to Overwrite the Gradient
+sass:
+  style: :compressed
