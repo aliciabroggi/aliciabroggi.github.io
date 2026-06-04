@@ -4,7 +4,7 @@
 
 **Good writing is good thinking.** I am a writer, researcher, and editorial consultant who helps organizations make sense of complex, fast-moving cultural and technological landscapes. 
 
-My work spans peer-reviewed books on culture and belief, deep-dive feature profiles of engineering leaders, and analytical essays on socio-technical systems. Because I have spent years researching and teaching at the university level in the UK and Germany, I know how to interrogate structural frameworks deeply—and, more importantly, how to translate those insights into clear, accessible language for the real world.
+My work spans peer-reviewed books on culture and belief, deep-dive feature profiles of engineering leaders, and analytical essays on socio-technical systems. Because I have spent years researching and teaching in the UK, Germany, and the US, I know how to interrogate structural frameworks deeply—and, more importantly, how to translate those insights into clear, accessible language for the real world.
 
 ---
 
