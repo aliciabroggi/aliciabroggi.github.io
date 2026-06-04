@@ -43,4 +43,4 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 
 If you are building at an advanced research lab, think tank, policy organization, or university center and need clear, rigorous analytical depth:
 
-[LinkedIn](https://www.linkedin.com) &nbsp;|&nbsp; [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/aliciabroggi/) &nbsp;|&nbsp; [Email](mailto:your.email@example.com)
