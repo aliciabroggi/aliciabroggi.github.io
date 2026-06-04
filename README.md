@@ -1,4 +1,20 @@
-<img src="portrait.jpeg" alt="Alicia Broggi" width="160" style="float: right; margin-left: 20px; border-radius: 4px;" />
+<style>
+  .profile-pic {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 160px;
+    border-radius: 4px;
+  }
+  
+  @media (min-width: 600px) {
+    .profile-pic {
+      float: right;
+      margin: 0 0 20px 20px;
+    }
+  }
+</style>
+
+<img src="portrait.jpeg" alt="Alicia Broggi" class="profile-pic" />
 
 **Good writing is good thinking.** I am a writer, researcher, and editorial consultant who helps organizations make sense of complex, fast-moving cultural and technological landscapes.
 
