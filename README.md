@@ -32,6 +32,14 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 
 ---
 
+### Peer-Reviewed Articles & Media
+
+*   **Journal Article** — [William Golding's Darkness Visible and the Question of Christian Realism](https://academic.oup.com/res/article-abstract/69/289/336/4745981) — *The Review of English Studies*
+*   **Journal Article** — [Grace and Direct Address in the Late Fiction of J. M. Coetzee](https://academic.oup.com/litthe/article-abstract/32/4/452/5056966) — *Literature and Theology*
+*   **Audio Production** — [Literate Podcast](https://literatepodcast.com/) — *Co-created and co-produced with Erica Lombard.*
+
+---
+
 ### Academic Background
 
 *   **D.Phil. in English** — University of Oxford (*Clarendon Scholar*)
