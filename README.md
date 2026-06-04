@@ -1,6 +1,6 @@
-<img src="portrait.jpg" alt="Alicia Broggi" width="160" style="float: right; margin-left: 20px; border-radius: 4px;" />
+<img src="portrait.jpeg" alt="Alicia Broggi" width="160" style="float: right; margin-left: 20px; border-radius: 4px;" />
 
-**Good writing is good thinking.** I am a writer, researcher, and editorial consultant who helps organizations make sense of complex, fast-moving cultural and technological landscapes. 
+**Good writing is good thinking.** I am a writer, researcher, and editorial consultant who helps organizations make sense of complex, fast-moving cultural and technological landscapes.
 
 My work spans peer-reviewed books on culture and belief, deep-dive feature profiles of engineering leaders, and analytical essays on socio-technical systems. Because I have spent years researching and teaching at the university level in the UK and Germany, as well as mentoring writers through independent research projects in the US, I know how to interrogate structural frameworks deeply—and, more importantly, how to translate those insights into clear, accessible language for the real world.
 
@@ -34,7 +34,7 @@ My work spans peer-reviewed books on culture and belief, deep-dive feature profi
 
 *   **D.Phil. in English** | University of Oxford  
     *Clarendon Scholar*
-*   **M.Sc. in English** | University of Edinburgh  
+*   **M.Sc. in English** | University of Edinburgh 
 *   **Undergraduate Degree** | Wheaton College
 
 ---
