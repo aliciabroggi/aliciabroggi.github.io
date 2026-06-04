@@ -2,8 +2,32 @@
 ---
 @import "{{ site.theme }}";
 
-// Changes the loud header gradient to a calm, solid slate/graphite tone
+// 1. Set the main site background to a soft, calming cream
+body {
+  background-color: #fcfaf2 !important; // A premium, understated book-paper cream
+}
+
+// 2. Set the top header section to your sophisticated Slate Blue
 .page-header {
   background-image: none !important;
-  background-color: #2e3440 !important; 
+  background-color: #4a5f70 !important; // A quiet, muted slate blue
+  padding: 3rem 2rem !important; // Keeps the layout compact and dignified
+}
+
+// 3. Change all body headings to a sharp, readable deep charcoal grey
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4 {
+  color: #2f3437 !important; // Deep editorial grey (softer than pure black)
+}
+
+// 4. Change all links to match the slate blue accent tone
+.main-content a {
+  color: #4a5f70 !important; // Coordinated slate blue for links
+  text-decoration: underline;
+}
+
+.main-content a:hover {
+  color: #2f3437 !important; // Shifts to the deep grey on hover
 }
