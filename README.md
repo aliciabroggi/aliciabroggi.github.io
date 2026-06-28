@@ -41,7 +41,7 @@ My work spans a peer-reviewed book on culture and belief, deep-dive feature prof
 
 ### Selected Essays & Features
 
-*   **Editorial Features** — [Three Architects of a Frontier Era: Profiles in Engineering Leadership](https://www.linkedin.com/pulse/three-frontier-architects-harvardintech-ubdie/)
+*   **Editorial Features** — [Three Frontier Architects](https://www.linkedin.com/pulse/three-frontier-architects-harvardintech-ubdie/)
 *   **Editorial Features** — [AI's Hidden Architects](https://www.linkedin.com/pulse/ais-hidden-architects-harvardintech-liafe/)
 *   **Industry Panels** — [Reflections on a Recent Leaders in Engineering Panel](https://www.linkedin.com/pulse/reflections-recent-leaders-engineering-panel-harvardintech-jkoqc/)
 *   **Analytical Essays** — [“Human Writing” in the Age of Artificial Intelligence](https://docs.google.com/document/d/1HhhsjOJrgpGvuDz8DuRvbZuXJEsw09_JhcePR1nQFHc/edit?usp=sharing) (*Out for Review*)
