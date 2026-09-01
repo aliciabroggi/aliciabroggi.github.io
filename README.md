@@ -16,9 +16,13 @@
 
 <img src="portrait.jpeg" alt="Alicia Broggi" class="profile-pic" />
 
-**Good writing is good thinking.** I am a writer, researcher, and editor who helps individuals and organizations to communicate their stories and ideas with clear and compelling prose.
+**Good writing is good thinking.** I am a writer, researcher, and editor who has spent over ten years honing the craft of conveying complex stories and ideas in clear, compelling prose -- and helping others to do the same.
 
-I have edited memoirs, academic publications, and technical web content. As an author myself, I have published a peer-reviewed book on culture and belief, feature profiles of web engineering leaders, and analytical essays on socio-technical systems. Because I have spent years conducting scholarly research in the UK, the US, and Germany, as well as mentoring writers internationally, I know how to interrogate structural frameworks deeply and how to translate those insights into clear, impactful language for the real world.
+As an author myself, I have published a scholarly book on culture and belief, as well as feature profiles of web engineering leaders, analytical essays on socio-technical systems, and travel writing. My years of postgraduate research in the UK, US, and Germany taught me how to investigate complex systems, question underlying assumptions, and develop ideas with rigor. Through teaching and mentoring writers, I have learned how to translate that depth of analysis into language that works in the real world.
+
+As an editor, I have helped authors refine their voice, strengthen their grammar, and develop effective narrative strategies across memoirs, academic publications, and tech-focused web content.
+
+I bring together deep research, clear thinking, and precise writing to help people communicate ideas that matter.
 
 <div style="clear: both;"></div>
 
