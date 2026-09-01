@@ -16,9 +16,9 @@
 
 <img src="portrait.jpeg" alt="Alicia Broggi" class="profile-pic" />
 
-**Good writing is good thinking.** I am a writer, researcher, and editorial consultant who helps organizations make sense of complex, fast-moving cultural and technological landscapes.
+**Good writing is good thinking.** I am a writer, researcher, and editor who helps individuals and organizations to communicate their stories and ideas with clear and compelling prose.
 
-My work spans a peer-reviewed book on culture and belief, deep-dive feature profiles of engineering leaders, and analytical essays on socio-technical systems. Because I have spent years researching and teaching at the university level in the UK and Germany, as well as mentoring writers through independent research projects in the US, I know how to interrogate structural frameworks deeply—and, more importantly, how to translate those insights into clear, accessible language for the real world.
+I have edited memoirs, academic publications, and technical web content. As an author myself, I have published a peer-reviewed book on culture and belief, feature profiles of web engineering leaders, and analytical essays on socio-technical systems. Because I have spent years conducting scholarly research in the UK, the US, and Germany, as well as mentoring writers internationally, I know how to interrogate structural frameworks deeply and how to translate those insights into clear, impactful language for the real world.
 
 <div style="clear: both;"></div>
 
