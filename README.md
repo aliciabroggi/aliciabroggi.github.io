@@ -30,7 +30,7 @@ I bring together deep research, clear thinking, and precise writing to help peop
 
 ---
 
-### Book & Major Publications
+### Book
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="monograph.jpg" alt="J. M. Coetzee and Christianity" width="220" style="border: 1px solid #e1e4e8;" />
