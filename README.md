@@ -16,11 +16,13 @@
 
 <img src="portrait.jpeg" alt="Alicia Broggi" class="profile-pic" />
 
-**Good writing is good thinking.** I am a writer, researcher, and editor who has spent over ten years honing the craft of conveying complex stories and ideas in clear, compelling prose -- and helping others to do the same.
+**Good writing is good thinking.** I am a writer, researcher, and editor who has spent over a decade honing the craft of conveying complex stories and ideas in clear, compelling prose—and helping others to do the same.
 
-As an author myself, I have published a scholarly book on culture and belief, as well as feature profiles of web engineering leaders, analytical essays on socio-technical systems, and travel writing. My years of postgraduate research in the UK, US, and Germany taught me how to investigate complex systems, question underlying assumptions, and develop ideas with rigor. Through teaching and mentoring writers, I have learned how to translate that depth of analysis into language that works in the real world.
+As an author, I have published a scholarly book on culture and belief, as well as feature profiles of web engineers, analytical essays about socio-technical systems, and travel writing.
 
-As an editor, I have helped authors refine their voice, strengthen their grammar, and develop effective narrative strategies across memoirs, academic publications, and tech-focused web content.
+My writing grew out of years of postgraduate research in the UK, US, and Germany. This taught me how to investigate complex systems, question underlying assumptions, and develop ideas with rigor. Through teaching and mentoring writers, I learned how to translate that depth of analysis into language that works in the real world.
+
+As an editor, I have helped authors refine their voice, sharpen their prose, and develop effective narrative strategies across memoirs, academic publications, and tech-focused web content.
 
 I bring together deep research, clear thinking, and precise writing to help people communicate ideas that matter.
 
