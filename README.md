@@ -38,11 +38,11 @@ I bring together deep research, clear thinking, and precise writing to help peop
 > 
 > I couldn't have asked for a better partner, and I recommend her without reservation.”
 > 
-> — **Esther Lee Cruz**
+> — **Esther Lee Cruz**, *_Memoir Client, Hopeward*_
 
 ---
 
-### Book & Major Publications
+### Selected Publications
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="monograph.jpg" alt="J. M. Coetzee and Christianity" width="220" style="border: 1px solid #e1e4e8;" />
@@ -57,7 +57,7 @@ I bring together deep research, clear thinking, and precise writing to help peop
 
 ---
 
-### Selected Essays & Features
+### Essays & Features
 
 *   **Editorial Features** — [Three Frontier Architects](https://www.linkedin.com/pulse/three-frontier-architects-harvardintech-ubdie/)
 *   **Editorial Features** — [AI's Hidden Architects](https://www.linkedin.com/pulse/ais-hidden-architects-harvardintech-liafe/)
