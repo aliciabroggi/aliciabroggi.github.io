@@ -64,15 +64,13 @@ I bring together deep research, clear thinking, and precise writing to help peop
 
 ### Reviews & Testimonials
 
-> “I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. In the content edit, she cut what was repetitive, restructured the story so it flowed, and made it clearer for readers. In the line edit, she was meticulous about every comma, sentence, and word choice. And she was responsive and insightful the whole way through.
+> “I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. In the content edit, she cut what was repetitive, restructured the story so it flowed better, and improved the clarity for readers. In the line edit, she was meticulous about every comma, sentence, and word choice. She was also responsive and insightful the whole way through.
 > 
 > I've worked with both human and AI editors, and Alicia is one of the very best. She reads past the words to how they'll make people feel. Readers don't remember sentences. They remember how a book made them feel.
 > 
 > I couldn't have asked for a better partner, and I recommend her without reservation.”
 > 
-> — **Author & Client** (*Memoir Project*)
-
-*(Second and third reviews will be added here)*
+> — **Esther Lee Cruz** 
 
 ---
 
