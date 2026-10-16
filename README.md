@@ -20,13 +20,25 @@
 
 As an author, I have published a scholarly book on culture and belief, as well as feature profiles of web engineers, analytical essays about socio-technical systems, and travel writing.
 
-My writing originally arose from years of postgraduate research in the UK, the US, and Germany. This taught me how to investigate complex systems, question underlying assumptions, and develop ideas with rigor. Through teaching and mentoring writers, I then learned how to translate that depth of analysis into language that works in the real world.
+My writing originally arose from years of postgraduate research in the UK, US, and Germany. This taught me how to investigate complex systems, question underlying assumptions, and develop ideas with rigor. Through teaching and mentoring writers, I then learned how to translate that depth of analysis into language that works in the real world.
 
 As an editor, I have helped authors refine their voice, sharpen their prose, and develop effective narrative strategies across memoirs, academic publications, and tech-focused web content.
 
 I bring together deep research, clear thinking, and precise writing to help people communicate ideas that matter.
 
 <div style="clear: both;"></div>
+
+---
+
+### Reviews & Testimonials
+
+> “I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. In the content edit, she cut what was repetitive, restructured the story so it flowed better, and improved the clarity for readers. In the line edit, she was meticulous about every comma, sentence, and word choice. She was also responsive and insightful the whole way through.
+> 
+> I've worked with both human and AI editors, and Alicia is one of the very best. She reads past the words to how they'll make people feel. Readers don't remember sentences. They remember how a book made them feel.
+> 
+> I couldn't have asked for a better partner, and I recommend her without reservation.”
+> 
+> — **Esther Lee Cruz**
 
 ---
 
@@ -59,18 +71,6 @@ I bring together deep research, clear thinking, and precise writing to help peop
 *   **Journal Article** — [“What Does it Mean to Speak of [–––]?” Rudolf Bultmann, Biography, and J. M. Coetzee’s *Life & Times of Michael K* (1983)](https://academic.oup.com/res/article-abstract/69/289/336/4745981) — *The Review of English Studies*
 *   **Journal Article** — [“A Language I Have Not Unlearned”: Cultivating an Historical Awareness of J.M. Coetzee’s Engagement with Christianity](https://academic.oup.com/litthe/article-abstract/32/4/452/5056966) — *Literature and Theology*
 *   **Audio Production** — [Literate Podcast](https://literatepodcast.com/) — A podcast about the “best” books, co-created and co-produced with Erica Lombard
-
----
-
-### Reviews & Testimonials
-
-> “I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. In the content edit, she cut what was repetitive, restructured the story so it flowed better, and improved the clarity for readers. In the line edit, she was meticulous about every comma, sentence, and word choice. She was also responsive and insightful the whole way through.
-> 
-> I've worked with both human and AI editors, and Alicia is one of the very best. She reads past the words to how they'll make people feel. Readers don't remember sentences. They remember how a book made them feel.
-> 
-> I couldn't have asked for a better partner, and I recommend her without reservation.”
-> 
-> — **Esther Lee Cruz** 
 
 ---
 
