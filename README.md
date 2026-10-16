@@ -16,15 +16,19 @@
 
 <img src="portrait.jpeg" alt="Alicia Broggi" class="profile-pic" />
 
-**Good writing is good thinking.** I am a writer, researcher, and editor who has spent over a decade honing the craft of conveying nuanced stories and ideas in clear, compelling prose -- and helping others do the same.
+**Good writing is good thinking.** I am a writer, researcher, and editor who helps people turn complex ideas, nuanced stories, and ambitious projects into clear and compelling prose.
 
-As an author, I have published a scholarly book on culture and belief, as well as feature profiles of web engineers, analytical essays about socio-technical systems, and travel writing.
+With over a decade of experience across research, publishing, and editing work, I bring intellectual depth, narrative sensitivity, and precision to every project.
 
-My approach to writing was honed through years of postgraduate research in the UK, the US, and Germany. This taught me how to make sense of new, complex systems, ask questions of underlying assumptions, and develop my own ideas with rigor. Through teaching and mentoring other writers, I learned to translate that depth of analysis into language that works in the real world.
+As an author, I have published a scholarly book on culture and belief, written feature profiles of web engineers, developed analytical essays about sociotechnical systems, and produced travel writing. Across these different forms, my aim is the same: to make ideas engaging, accessible, and meaningful to their intended audience.
 
-As an editor, I have helped authors refine their voice, sharpen their prose, and develop effective narrative strategies in memoirs, academic publications, and tech-focused web content.
+My approach combines rigorous research with a strong sense of how writing works. Years of postgraduate research in the UK, the US, and Germany taught me to navigate complex material, identify the questions that matter, and build clear, persuasive arguments. Through teaching and consulting, I have learned to translate that analytical depth into writing that connects with readers far beyond academia.
 
-By drawing on the full range of this background, I help people communicate ideas that matter.
+As an editor, I work with to strengthen their manuscript while preserving what makes their work distinctive. From shaping a memoir's narrative arc and developing its themes to refining individual sentences, I help writers find the clearest, strongest expression of their ideas. My editorial experience spans memoirs, academic publications, and technology-focused web content.
+
+Whether I am developing a piece from the ground up or helping an author bring an existing draft to life, I combine careful research, thoughtful collaboration, and meticulous attention to language. 
+
+I help people communicate ideas that matter... with clarity, conviction, and purpose.
 
 <div style="clear: both;"></div>
 
