@@ -16,7 +16,7 @@
 
 <img src="portrait.jpeg" alt="Alicia Broggi" class="profile-pic" />
 
-**Good writing is good thinking.** I am a writer, researcher, and editor who has spent over a decade honing the craft of conveying complex stories and ideas in clear, compelling prose—and helping others to do the same.
+**Good writing is good thinking.** I am a writer, researcher, and editor who has spent over a decade honing the craft of conveying complex stories and ideas in clear, compelling prose—and helping others do the same.
 
 As an author, I have published a scholarly book on culture and belief, as well as feature profiles of web engineers, analytical essays about socio-technical systems, and travel writing.
 
