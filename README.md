@@ -18,7 +18,7 @@
 
 **Good writing is good thinking.** I am a writer, researcher, and editor who helps people turn complex ideas, nuanced stories, and ambitious projects into clear and compelling prose.
 
-My work spans scholarly publishing, technology journalism, analytical essays, and travel writing. With a background in postgraduate research in the UK, the US, and Germany, I combine rigorous research with an ability to make complex subjects accessible and engaging.
+My work spans scholarly publishing, technology journalism, analytical essays, and travel writing. With a doctorate from the University of Oxford, I combine rigorous research with an ability to make complex subjects accessible and engaging.
 
 As an editor, I help writers find the clearest, strongest expression of their ideas. Whether advising on a piece from the start or refining an existing manuscript, I help people communicate ideas that matter with clarity, conviction, and purpose.
 
