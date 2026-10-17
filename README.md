@@ -26,7 +26,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 
 ---
 
-### Reviews & Testimonials
+### Testimonials
 
 > “I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. In the content edit, she cut what was repetitive, restructured the story so it flowed better, and improved the clarity for readers. In the line edit, she was meticulous about every comma, sentence, and word choice. She was also responsive and insightful the whole way through.
 > 
@@ -38,7 +38,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 
 ---
 
-### Book & Other Publications
+### Book & Selected Publications
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="monograph.jpg" alt="J. M. Coetzee and Christianity" width="220" style="border: 1px solid #e1e4e8;" />
@@ -55,14 +55,14 @@ As an editor, I help writers find the clearest, strongest expression of their id
 
 ### Selected Essays & Features
 
-*   **Editorial Features** — [Three Frontier Architects](https://www.linkedin.com/pulse/three-frontier-architects-harvardintech-ubdie/)
-*   **Editorial Features** — [AI's Hidden Architects](https://www.linkedin.com/pulse/ais-hidden-architects-harvardintech-liafe/)
+*   **Feature Profiles** — [Three Frontier Architects](https://www.linkedin.com/pulse/three-frontier-architects-harvardintech-ubdie/)
+*   **Features Profiles** — [AI's Hidden Architects](https://www.linkedin.com/pulse/ais-hidden-architects-harvardintech-liafe/)
 *   **Industry Panels** — [Reflections on the Recent Leaders in Engineering Panel](https://www.linkedin.com/pulse/reflections-recent-leaders-engineering-panel-harvardintech-jkoqc/)
 *   **Analytical Essays** — [“Human Writing” in the Age of Artificial Intelligence](https://docs.google.com/document/d/1HhhsjOJrgpGvuDz8DuRvbZuXJEsw09_JhcePR1nQFHc/edit?usp=sharing) (*Out for Review*)
 
 ---
 
-### Peer-Reviewed Articles & Media
+### Academic Publications & Media
 
 *   **Journal Article** — [“What Does it Mean to Speak of [–––]?” Rudolf Bultmann, Biography, and J. M. Coetzee’s *Life & Times of Michael K* (1983)](https://academic.oup.com/res/article-abstract/69/289/336/4745981) — *The Review of English Studies*
 *   **Journal Article** — [“A Language I Have Not Unlearned”: Cultivating an Historical Awareness of J.M. Coetzee’s Engagement with Christianity](https://academic.oup.com/litthe/article-abstract/32/4/452/5056966) — *Literature and Theology*
