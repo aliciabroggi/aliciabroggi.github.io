@@ -34,7 +34,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 > 
 > I couldn't have asked for a better partner, and I recommend her without reservation.”
 > 
-> — **Esther Lee Cruz**, *Memoir Client, Hopeward*
+> — **Esther Lee Cruz**, *Memoir client, Hopeward*
 
 ---
 
