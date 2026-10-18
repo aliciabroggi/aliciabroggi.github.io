@@ -83,7 +83,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 *   **D.Phil. in English** — University of Oxford (Clarendon Scholar)
 *   **M.Sc. in English** — University of Edinburgh
 *   **Master's Degree** — Wheaton College
-*   **Undergraduate Degree** — Wheaton College
+*   **Bachelor's Degree** — Wheaton College
 
 ---
 
