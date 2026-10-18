@@ -35,6 +35,14 @@ As an editor, I help writers find the clearest, strongest expression of their id
 > I couldn't have asked for a better partner, and I recommend her without reservation.”
 > 
 > — **Esther Lee Cruz**, *Memoir client, Hopeward*
+>
+> "Alicia is an exceptional writer and researcher. She's particularly skilled at investigating complex technology topics and turning them into engaging, accessible stories. Her intellect, attention to detail, and research skills are outstanding.
+>
+> What sets Alicia apart is her ability to look beyond the technicalities to uncover the human story and wider implications. She has excellent editorial judgment, asks the right questions, and turns interviews into compelling stories.
+>
+> Working with Alicia at Harvard Alumni in Tech has been a real pleasure. She's a thoughtful, professional collaborator who is committed to producing excellent content. I would wholeheartedly recommend her to any organization looking for a writer who can do the research and tell a great story."
+>
+> - **Nicole Soltau**, *Digital Marketing Strategist at Harvard in Tech*
 
 ---
 
