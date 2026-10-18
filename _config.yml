@@ -1,6 +1,10 @@
+
 theme: jekyll-theme-cayman
 title: Alicia Broggi
 description: "Writer, Researcher, & Editor"
 
 sass:
   style: :compressed
+
+plugins:
+  - jekyll-sitemap
