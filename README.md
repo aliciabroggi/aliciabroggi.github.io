@@ -42,7 +42,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 >
 > Working with Alicia at Harvard Alumni in Tech has been a real pleasure. She's a thoughtful, professional collaborator who is committed to producing excellent content. I would wholeheartedly recommend her to any organization looking for a writer who can do the research and tell a great story."
 >
-> - **Nicole Soltau**, *Digital Marketing Strategist at Harvard in Tech*
+> — **Nicole Soltau**, *Digital Marketing Strategist at Harvard in Tech*
 
 ---
 
