@@ -59,7 +59,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 > #### **J. M. Coetzee and Christianity**
 > *Bloomsbury Academic, March 2026*
 > 
-> A research monograph examining the structural intersections of literature, foundational cultural ethics, and belief systems within modern societal frameworks.
+> A research monograph examining the structural intersections of literature, ethics, and belief systems within modern societal frameworks.
 > 
 > [Available from Bloomsbury](https://www.bloomsbury.com/us/j-m-coetzee-and-christianity-9781350500235/)
 
