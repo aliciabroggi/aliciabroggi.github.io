@@ -30,7 +30,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 
 >"Alicia was a wonderful creative partner throughout the nine months we spent editing my grandfather’s life story, *Kathua Boy*. She immersed herself completely in the project, conducting interviews and researching his life so she could connect the dots in his narrative. She took his unpolished drafts and refined them with remarkable care, never losing the authenticity of his lived experience or the natural humor of his voice. Her suggestions were targeted, thoughtful, and improved the flow of the story. Thanks to Alicia, my grandfather’s story reads as clearly and powerfully as he lived it, with the polish of a professional memoir. I would wholeheartedly recommend her to anyone hoping to bring a meaningful story to life on the page."
 >
-> - **Anay Sharma**, *Memoir client, Kathua Boy*
+> — **Anay Sharma**, *Memoir client, Kathua Boy*
 >
 >“I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. In the content edit, she cut what was repetitive, restructured the story so it flowed better, and improved the clarity for readers. In the line edit, she was meticulous about every comma, sentence, and word choice. She was also responsive and insightful the whole way through.
 > 
