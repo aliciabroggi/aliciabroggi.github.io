@@ -20,7 +20,7 @@
 
 As an author with a doctorate from the University of Oxford, I combine rigorous research with an ability to make nuanced subjects accessible and engaging. My work includes scholarly publishing, technology journalism, analytical essays, and travel writing.
 
-As an editor, I help writers find the clearest, strongest expression of their ideas. Whether advising on a piece from its start or refining an existing manuscript, I help people communicate ideas that matter with accuracy, impact, and purpose.
+As an editor, I help writers find the clearest, strongest expression of their ideas. Whether advising on a piece from its start or refining an existing manuscript, I help people communicate ideas that matter with accuracy and impact.
 
 <div style="clear: both;"></div>
 
