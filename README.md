@@ -59,7 +59,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 > #### **J. M. Coetzee and Christianity**
 > *Bloomsbury Academic, March 2026*
 > 
-> A research monograph examining the intersection of literature and religion, with attention to its aesthetic, ethical, and social implications.
+> A research monograph examining the intersections of literature and religion, with attention to their aesthetic, ethical, and social implications.
 > 
 > [Available from Bloomsbury](https://www.bloomsbury.com/us/j-m-coetzee-and-christianity-9781350500235/)
 
