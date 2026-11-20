@@ -32,7 +32,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 >
 > — **Anay Sharma**, *Memoir client, Kathua Boy*
 >
->“I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. She restructured the story, cut repetition, improved clarity and flow, and was meticulous about every sentence, word choice, and punctuation mark. She was responsive and insightful throughout.
+>“I had Alicia Broggi content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. She restructured the story, cut repetition, improved clarity and flow, and was meticulous about every sentence, word choice, and punctuation mark. She was responsive and insightful throughout.
 > 
 > I've worked with both human and AI editors, and Alicia is one of the very best. She reads past the words to how they'll make people feel. Readers don't remember sentences. They remember how a book made them feel.
 > 
