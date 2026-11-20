@@ -32,7 +32,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 >
 > — **Anay Sharma**, *Memoir client, Kathua Boy*
 >
->“I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. In the content edit, she cut what was repetitive, restructured the story so it flowed better, and improved the clarity for readers. In the line edit, she was meticulous about every comma, sentence, and word choice. She was also responsive and insightful the whole way through.
+>“I hired Alicia Broggi to content and line edit my memoir about my son's autism and our family's transformation. Within a few weeks, she'd become a true partner and co-creator. She restructured the story, cut repetition, improved clarity and flow, and was meticulous about every sentence, word choice, and punctuation mark. She was responsive and insightful throughout.
 > 
 > I've worked with both human and AI editors, and Alicia is one of the very best. She reads past the words to how they'll make people feel. Readers don't remember sentences. They remember how a book made them feel.
 > 
@@ -40,11 +40,11 @@ As an editor, I help writers find the clearest, strongest expression of their id
 > 
 > — **Esther Lee Cruz**, *Memoir client, Hopeward*
 >
-> "Alicia is an exceptional writer and researcher. She's particularly skilled at investigating complex technology topics and turning them into engaging, accessible stories. Her intellect, attention to detail, and research skills are outstanding.
+> "Alicia is an exceptional writer and researcher, particularly skilled at investigating complex technology topics and turning them into engaging, accessible stories. Her intellect, attention to detail, and research skills are outstanding.
 >
-> What sets Alicia apart is her ability to look beyond the technicalities to uncover the human story and wider implications. She has excellent editorial judgment, asks the right questions, and turns interviews into compelling stories.
+> What sets Alicia apart is her ability to look beyond the technicalities to uncover the human story and wider implications. She has excellent editorial judgment, asks the right questions, and turns interviews into compelling narratives.
 >
-> Working with Alicia at Harvard Alumni in Tech has been a real pleasure. She's a thoughtful, professional collaborator who is committed to producing excellent content. I would wholeheartedly recommend her to any organization looking for a writer who can do the research and tell a great story."
+> Working with Alicia at Harvard Alumni in Tech has been a real pleasure. She's a thoughtful, professional collaborator committed to producing excellent content. I would wholeheartedly recommend her to any organization looking for a writer who can do the research and tell a great story."
 >
 > — **Nicole Soltau**, *Director of Marketing at Harvard Alumni in Tech*
 
