@@ -20,7 +20,7 @@
 
 As an author with a doctorate from the University of Oxford, I combine rigorous research with an ability to make nuanced subjects accessible and engaging. My work includes scholarly publishing, technology journalism, analytical essays, and travel writing.
 
-As an editor, I help writers find the clearest, strongest expression of their ideas. Whether advising on a piece from its start or refining an existing manuscript, I help people communicate ideas that matter with accuracy and impact.
+As an editor, I help writers find the clearest, strongest expression of their ideas. Whether advising on a piece from its start or refining an existing manuscript, I empower people to communicate ideas that matter with accuracy and impact.
 
 <div style="clear: both;"></div>
 
@@ -46,7 +46,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 >
 > Working with Alicia at Harvard Alumni in Tech has been a real pleasure. She's a thoughtful, professional collaborator who is committed to producing excellent content. I would wholeheartedly recommend her to any organization looking for a writer who can do the research and tell a great story."
 >
-> — **Nicole Soltau**, *Digital Marketing Strategist at Harvard in Tech*
+> — **Nicole Soltau**, *Director of Marketing at Harvard Alumni in Tech*
 
 ---
 
@@ -59,7 +59,7 @@ As an editor, I help writers find the clearest, strongest expression of their id
 > #### **J. M. Coetzee and Christianity**
 > *Bloomsbury Academic, March 2026*
 > 
-> A research monograph examining the structural intersections of literature, ethics, and belief systems within modern societal frameworks.
+> A research monograph examining the intersection of literature and religion, with attention to its aesthetic, ethical, and social implications.
 > 
 > [Available from Bloomsbury](https://www.bloomsbury.com/us/j-m-coetzee-and-christianity-9781350500235/)
 
