@@ -16,7 +16,7 @@
 
 <img src="portrait.jpeg" alt="Alicia Broggi" class="profile-pic" />
 
-**Good writing is good thinking.** I help people convey complex ideas and ambitious projects through clear and compelling prose.
+**Good writing is good thinking.** I help people convey complex ideas and ambitious projects in clear and compelling prose.
 
 As an author with a doctorate from the University of Oxford, I combine rigorous research with an ability to make nuanced subjects accessible and engaging. My work includes scholarly publishing, technology journalism, analytical essays, and travel writing.
 
